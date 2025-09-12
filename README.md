@@ -17,7 +17,9 @@ venv\Scripts\activate      # On Windows
 Install dependencies:
 pip install -r requirements.txt
 Usage
+
 Run the project:
+
 python run.py
 (or however your app should be started)
 Project Structure
@@ -27,8 +29,11 @@ your-repo-name/
 │   └── main.py     # Core app logic
 │── requirements.txt
 │── README.md
+
 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
+
 License
 MIT
+
 
