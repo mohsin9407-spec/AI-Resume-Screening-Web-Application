@@ -8,7 +8,7 @@ Features
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/mohsin9407-spec/ai-resume-screening-web-application.git
 cd your-repo-name
 Create and activate a virtual environment (optional but recommended):
 python -m venv venv
@@ -31,3 +31,4 @@ Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 License
 MIT
+
