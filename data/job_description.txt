@@ -1,0 +1,32 @@
+Common AI/ML Job Roles & Responsibilities
+Data Scientist:
+Analyzes complex data to identify patterns, build predictive models, and extract actionable insights. 
+Machine Learning Engineer:
+Designs, develops, trains, and deploys AI/ML models and systems. 
+AI Researcher:
+Conducts advanced research to develop new AI algorithms and explore emerging technologies, often publishing papers. 
+Computer Vision Expert:
+Specializes in image and video analysis, including facial recognition and object detection. 
+NLP Specialist:
+Focuses on text and voice recognition, sentiment analysis, and language processing. 
+MLOps Engineer:
+Manages the entire lifecycle of machine learning models, including deployment, monitoring, and continuous retraining. 
+AI/ML Consultant:
+Provides expert advice and guidance on AI/ML projects and strategy to various clients and organizations. 
+AI Product Manager:
+Manages the development and delivery of AI-powered products and services. 
+AI Ethics Consultant:
+Addresses ethical considerations and policy issues related to the development and deployment of AI technologies. 
+Key Skills for AI/ML Professionals
+Programming: Proficiency in languages like Python and R is essential. 
+Data Science: Expertise in data analysis, feature engineering, and statistical modeling. 
+Machine Learning: Deep understanding of algorithms, deep learning, and neural networks. 
+AI Tools: Experience with frameworks like TensorFlow and PyTorch, as well as cloud-based AI services. 
+Communication: The ability to explain complex AI concepts to both technical and non-technical stakeholders. 
+Business Acumen: Understanding how AI/ML solutions align with and drive business goals. 
+Where AI/ML is Applied
+AI and Machine Learning are transforming industries such as: 
+Healthcare: For diagnostics and personalized medicine.
+Finance: For fraud detection and predictive analytics.
+Manufacturing: For automation and quality control.
+E-commerce: For product recommendations and customer insights
