@@ -35,7 +35,10 @@
  Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
 ## License
-   MIT
+   MIT 
+ ## Contact
+ Project created by the repository owner. For questions, reply here or add an issue on the repo.
+
 
 
 
