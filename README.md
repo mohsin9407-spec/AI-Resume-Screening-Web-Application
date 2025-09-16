@@ -1,12 +1,12 @@
-* Project Name
+## Project Name
  AI Resume Screening Web Application
 
-* Features
+## Features
  1 Designed NLP-powered resume screening system to match resumes with job descriptions.
  2 Extracted resume text (PDF) using PyMuPDF and applied spaCy for semantic similarity.
  3 Built a Flask-based UI to upload resumes, compare skills, and display match score.
 
-* Installation
+## Installation
  Clone the repository:
  git clone https://github.com/mohsin9407-spec/ai-resume-screening-web-application.git
   cd your-repo-name
@@ -15,15 +15,15 @@
  source venv/bin/activate   # On Linux/Mac
  venv\Scripts\activate      # On Windows
 
-* Install dependencies:
+## Install dependencies:
  pip install -r requirements.txt
  Usage
 
-* Run the project:
+## Run the project:
 
  python run.py
  (or however your app should be started)
-* Project Structure
+## Project Structure
  your-repo-name/
 │── run.py          # Entry point
 │── app/
@@ -31,11 +31,12 @@
 │── requirements.txt
 │── README.md
 
-*Contributing
+## Contributing
  Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
-* License
- MIT
+## License
+   MIT
+
 
 
 
